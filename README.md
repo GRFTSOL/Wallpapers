@@ -119,6 +119,8 @@ Pls😨 I swear these ain't the links from where I got some of them :-
 
 - [wallhaven.cc](https://wallhaven.cc): few cool image sample(s) here {[1](https://wallhaven.cc/w/we66g6)}
 
+- [wallper.app](https://www.wallper.app/wallpaper/animals/asdf-55d3a139-4365-40e0-a860-46f6f61b97eb) - good collection of live wallpapers, just right click on the live wallpaper and play video in new tab, and then download!
+
 There are many more which I do not recollect, some of which no more exist😿 but gave me inspiration to make this collection!
 
 There are tonnes of people who collect Wallpapers, just search for [Wallpapers in Github](https://github.com/topics/wallpapers)💘!
